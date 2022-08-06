@@ -1,0 +1,3 @@
+do_token="dop_v1_1a8b2d9fe3704526f492706cf5dcee63fc1e8d858ad7f9a5ff7d081501f77f52"
+k8s_name="k8s-iniciativa"
+region="nyc1"
